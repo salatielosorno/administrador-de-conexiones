@@ -1,5 +1,5 @@
 # Administrador de conexiones
-Este es un administrador de conexiones que fue realizado para ser utilizado por cualquier aplicación que requiera de un formulario para configurar la conexión a base de datos, se genera como DLL para ser referenciado en cualquier proyecto windows form. It made in 2015.
+Este es un administrador de conexiones que fue realizado para ser utilizado por cualquier aplicación que requiera de un formulario para configurar la conexión a base de datos, se genera como DLL para ser referenciado en cualquier proyecto windows form. Fue hecho en 2015.
 
 # Implementación
 
